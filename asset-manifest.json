@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/evil-form/static/css/main.47ced23c.css",
+    "main.js": "/evil-form/static/js/main.50df5f21.js",
+    "index.html": "/evil-form/index.html",
+    "static/media/logo.svg": "/evil-form/static/media/logo.8034e4c9e74429bf7831019115215ebb.svg",
+    "main.47ced23c.css.map": "/evil-form/static/css/main.47ced23c.css.map",
+    "main.50df5f21.js.map": "/evil-form/static/js/main.50df5f21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47ced23c.css",
+    "static/js/main.50df5f21.js"
+  ]
+}
